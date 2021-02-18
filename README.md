@@ -1,1 +1,1 @@
-# Just a simple C++ fun programm. Counts days from date of birth.
+# Just a simple C++ fun program. Counts days from date of birth.
